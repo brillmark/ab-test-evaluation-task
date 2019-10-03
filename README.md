@@ -22,7 +22,7 @@
 ## Setup locally 
 - `Clone` the Repository  (`git clone https://github.com/brillmark/ab-test-evaluation-task.git`)
 - To serve file locally, you need to use `http-server` (https://www.npmjs.com/package/http-server) or  vscode `Live Server` (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-- Here is the example of http-server (https://d.pr/v/CTejLt)
+- Here is the example of http-server (https://d.pr/v/CTejLt), Make sure you have install `npm install http-server -g`
 - Tageting page : http://127.0.0.1:8080/#/register
 - `/test/script.js` and `/test/style.css` files are already attached in index.js
 
